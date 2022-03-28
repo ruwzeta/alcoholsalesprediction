@@ -1,0 +1,2 @@
+# alcoholsalesprediction
+Deployed on Heroku
